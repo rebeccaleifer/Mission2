@@ -1,0 +1,22 @@
+﻿body {
+    font-family: 'Courier New';
+    text-align: center;
+    background-color: lightblue;
+}
+
+label {
+    font-size: 20px;
+    color: darkblue;
+    width: 200px;
+    display: inline-block;
+}
+
+img {
+    border-radius: 8px;
+    width: 500px;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
